@@ -11,14 +11,13 @@ This repo contains awsome unsupervised papers and corresponding codes
 
 ## Contents
 
-### SBSR
-
 - [CrossModal](#CrossModal)
 
 
 
 ## CrossModal:
--Feature Representation Learning for Unsupervised Cross-domain Image Retrieval [[Paper]](https://arxiv.org/pdf/2207.09721.pdf) [[Github]] (https://github.com/conghuihu/UCDIR)
+-Feature Representation Learning for Unsupervised Cross-domain Image Retrieval [[Paper]](https://arxiv.org/pdf/2207.09721.pdf)
+[[Github]](https://github.com/conghuihu/UCDIR)
 
 
   
